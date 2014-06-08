@@ -11,3 +11,54 @@
  *= require_self
  *= require_tree .
  */
+
+#hat {
+	background: #5C2849;
+	display: inline-block;
+	height: 5em;
+}
+
+#logo {
+	font-size: 40px;
+	display: inline-block;
+}
+
+#reps {
+	background: #A73E5C;
+	width: 10em;
+	height: 2em;
+	display: inline-block;
+	text-align: center;
+	font-size: 3em;
+	font-family: Arial;
+}
+
+#bands {
+	background: #EC4863;
+	width: 10em;
+	height: 2em;
+	display: inline-block;
+	text-align: center;
+	font-size: 3em;
+	font-family: Arial;
+}
+
+#men {
+	background: #FFDA66;
+	width: 10em;
+	height: 2em;
+	display: inline-block;
+	text-align: center;
+	font-size: 3em;
+	font-family: Arial;
+}
+
+#store {
+	background: #1FCECB;
+	width: 10em;
+	height: 2em;
+	display: inline-block;
+	text-align: center;
+	font-size: 3em;
+	font-family: Arial;
+}
